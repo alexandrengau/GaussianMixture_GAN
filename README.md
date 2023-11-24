@@ -23,7 +23,14 @@ When your code will be test, we will execute:
 **Checkpoints**
 Push the minimal amount of models in the folder *checkpoints*.
 
+---
+
 ### Acknowledgement
+
+This project was made in collaboration with :
+
+- **Jules Merigot**, *IASD Master 2023/2024 student*
+- **Mattéo Sammut**, *IASD Master 2023/2024 student*
 
 This project was made possible with the guidance and support of the following :
 
