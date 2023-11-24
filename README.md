@@ -4,7 +4,7 @@
 
 ### About this project
 
-This project is the second homework assignment for the DataLab class of the IASD Master 2023/2024, at PSL Research University (Université PSL). The report can be viewed in the [report.pdf](report.pdf).
+This project is the second homework assignment for the DataLab class of the IASD Master 2023/2024, at PSL Research University (Université PSL). The report can be viewed in the [report.pdf](report.pdf) file.
 It answers to the instructions given in the [assignment_2_slides_instructions.pdf](assignment_2_slides_instructions.pdf) file provided by the professors.
 
 The rest of the instructions can be found here :
