@@ -1,0 +1,23 @@
+{
+    "training": {
+        "type" : "finetune",
+        "vanilla_id" : "law-vanilla_dim-100_batch_size-64_lr-0.0002",
+        "epoch_checkpoint" : "epoch-50",
+        "batch_size": 64,
+        "lr": 2e-4,
+        "epochs": 100
+    },
+    "latent": {
+        "dim" : 100,
+        "law" : "GM", 
+        "n_gaussian" : 10,
+        "learn_type" : "static",
+        "c" : 0.1,
+        "sigma" : 0.15,
+        "covar_type" : "1"
+    },
+    "fid" : {
+        "num_samples" : 1000,
+        "real_images_path" : "data/MNIST_raw"
+}}
+
